@@ -1,0 +1,39 @@
+---
+title: "Git versjonskontrollsystem (utkast)"
+bibliography: new-paper.bib
+lang: nb-no
+
+
+output:
+  html_notebook
+  
+---
+
+## Innledning 
+
+## Reproduserbarhet
+
+##Litteraturgjennomgang   
+##Replikerbarhet/repoduserbarhet
+
+# Hoveddel 2
+
+# Avslutning
+
+
+# Terminal window
+
+Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
+
+1. git clone https://github.com/SBrynjelsen/Masterr
+1. git branch jih
+1. git checkout jih
+1. Gjør endringer
+1. git add --all
+1. git commit -m "første commit jih"
+1. git push --set-upstream origin jih
+1. git pull
+## Referanser
+<DIV id="refs"></DIV>
+
+## Appendiks
