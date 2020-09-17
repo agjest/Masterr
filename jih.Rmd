@@ -10,20 +10,20 @@ output:
   
 ---
 
-## Hva skjer?
+## Innledning 
+### Reproduserbarhet
 
-Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
-
-# Terminal window
-
-
-## Innledning
-
-# Hoveddel
+##Litteraturgjennomgang   
+##Replikerbarhet/repoduserbarhet
 
 # Hoveddel 2
 
 # Avslutning
+
+
+# Terminal window
+
+Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 
 1. git clone https://github.com/SBrynjelsen/Masterr
 1. git branch jih
@@ -34,11 +34,6 @@ Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 1. git push --set-upstream origin jih
 1. git push
 
-
-
-tusen takk [@barnes2010; @bechhofer2013]
- 
- hjertlig takk
 
 ## Referanser
 <DIV id="refs"></DIV>
