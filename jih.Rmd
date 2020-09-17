@@ -1,18 +1,15 @@
 ---
 title: "Git versjonskontrollsystem (utkast)"
+bibliography: new-paper.bib
+lang: nb-no
+
 output:
-  html_document:
-    toc: yes
-    toc_depth: '2'
-    df_print: paged
-  html_notebook:
-    toc: yes
-    toc_depth: 2
+  html_notebook
 ---
 
 ## Hva skjer?
 
-Under her kommer en Git  instruksjonsliste fra Jørn
+Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 
 # Terminal window
 
@@ -27,6 +24,11 @@ Under her kommer en Git  instruksjonsliste fra Jørn
 
 
 
-tusen takk 
+tusen takk [@barnes2010; @bechhofer2013]
  
  hjertlig takk
+
+## Referanser
+<DIV id="refs"></DIV>
+
+## Appendiks
