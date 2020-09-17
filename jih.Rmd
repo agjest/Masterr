@@ -4,14 +4,14 @@ bibliography: new-paper.bib
 lang: nb-no
 
 
-
 output:
   html_notebook
   
 ---
 
 ## Innledning 
-### Reproduserbarhet
+
+## Reproduserbarhet
 
 ##Litteraturgjennomgang   
 ##Replikerbarhet/repoduserbarhet
