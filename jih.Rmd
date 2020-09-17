@@ -9,6 +9,9 @@ output:
 
 ## Hva skjer?
 
+##innleding
+##hoveddel
+
 Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 
 # Terminal window
