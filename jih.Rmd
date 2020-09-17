@@ -1,0 +1,24 @@
+---
+title: "Git versjonskontrollsystem (utkast)"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+# Terminal window
+
+1. git clone https://github.com/SBrynjelsen/Masterr
+1. git branch jih
+1. git checkout jih
+1. Gjør endringer
+1. git add --all
+1. git commit -m "første commit jih"
+1. git push --set-upstream origin jih
+1. git push
+
+
+
+
+
