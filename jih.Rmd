@@ -3,8 +3,11 @@ title: "Git versjonskontrollsystem (utkast)"
 bibliography: new-paper.bib
 lang: nb-no
 
+
+
 output:
   html_notebook
+  
 ---
 
 ## Hva skjer?
@@ -12,6 +15,15 @@ output:
 Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 
 # Terminal window
+
+
+## Innledning
+
+# Hoveddel
+
+# Hoveddel 2
+
+# Avslutning
 
 1. git clone https://github.com/SBrynjelsen/Masterr
 1. git branch jih
