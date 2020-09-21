@@ -9,31 +9,31 @@ output:
   
 ---
 
-## Innledning 
+# Innledning 
+
+I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med og reprodusering. 
 
 ## Reproduserbarhet
+Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
 
-##Litteraturgjennomgang   
-##Replikerbarhet/repoduserbarhet
+## Litteraturgjennomgang 
 
-# Hoveddel 2
+Vitenskapen utvikler seg, det gir oss muligheten til å skape tillit til at vitenskapen er reproduserbar. Likevel er det et problem, for det er mange rapportert som ikke er reproduserbare. Ved Replikbarhet kan vi gå ut ifra at vi kan gjøre det på nytt.  Mens ved reproduserbare er nødvendig, men ikke tilstrekkelig betingelse.
 
+## Replikerbarhet/repoduserbarhet
+
+Bør vi nevne generalisering her?
+## Problemets omgang
+
+Her kan vi skrive litt om publiserings skreivhet?
+	Negativ og positiv konklusjon?
+	Publiserings skeivhet handler om at en studie blir publisert avhengig av hva konklusjonen blir,  positiv konklusjonen.  Det er veldig få som forkaster Ho, som vil si negativ konklusjon med ingen effekt
 # Avslutning
 
 Hei Hei
 
-•	Innleding
-I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med og reprodusering. 
-o	Reproduserbarhet
-Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
-•	Litteraturgjennomgang
-Vitenskapen utvikler seg, det gir oss muligheten til å skape tillit til at vitenskapen er reproduserbar. Likevel er det et problem, for det er mange rapportert som ikke er reproduserbare. Ved Replikbarhet kan vi gå ut ifra at vi kan gjøre det på nytt.  Mens ved reproduserbare er nødvendig, men ikke tilstrekkelig betingelse.
-o	Replikerbarhet/repoduserbarhet
-Bør vi nevne generalisering her?
-o	Problemets omgang
-Her kan vi skrive litt om publiserings skreivhet?
-	Negativ og positiv konklusjon?
-	Publiserings skeivhet handler om at en studie blir publisert avhengig av hva konklusjonen blir,  positiv konklusjonen.  Det er veldig få som forkaster Ho, som vil si negativ konklusjon med ingen effekt
+
+
 	Vil dagens løsning med aktiv data og event. Programkode has tidsskriftene kunne løse problemet?
 Det er vanskelig å publisere rådatane, som gjør det vanskelige å reprodusere hele rapporten å få lik konklusjon. 
 o	Mulig løsning (teoretisk plan)
