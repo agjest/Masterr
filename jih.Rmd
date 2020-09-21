@@ -2,11 +2,9 @@
 title: "Git versjonskontrollsystem (utkast)"
 bibliography: new-paper.bib
 lang: nb-no
-
-
 output:
-  html_notebook
-  
+  html_document:
+    df_print: paged
 ---
 
 ## Innledning 
@@ -26,7 +24,7 @@ Her kan vi skrive litt om publiserings skreivhet?
 # Avslutning
 
 
-
+Referanse peng[@peng2011]
 
 
 	Vil dagens løsning med aktiv data og event. Programkode has tidsskriftene kunne løse problemet?
