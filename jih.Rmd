@@ -9,20 +9,42 @@ output:
   
 ---
 
-## Innledning 
+# Innledning 
 
 I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med og reprodusering. 
+
+
 ## Reproduserbarhet
 Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
-##Litteraturgjennomgang   
+
+## Litteraturgjennomgang 
+
 Vitenskapen utvikler seg, det gir oss muligheten til å skape tillit til at vitenskapen er reproduserbar. Likevel er det et problem, for det er mange rapportert som ikke er reproduserbare. Ved Replikbarhet kan vi gå ut ifra at vi kan gjøre det på nytt.  Mens ved reproduserbare er nødvendig, men ikke tilstrekkelig betingelse.
-##Replikerbarhet/repoduserbarhet
+
+### Replikerbarhet/repoduserbarhet
+
 Bør vi nevne generalisering her?
 ## Problemets omgang
-Her kan vi skrive litt om publiserings skreivhet?
+
+  Her kan vi skrive litt om publiserings skreivhet?
 	Negativ og positiv konklusjon?
 	Publiserings skeivhet handler om at en studie blir publisert avhengig av hva konklusjonen blir,  positiv konklusjonen.  Det er veldig få som forkaster Ho, som vil si negativ konklusjon med ingen effekt
-# Avslutning
+	
+
+
+
+Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
+
+##Litteraturgjennomgang   
+
+Vitenskapen utvikler seg, det gir oss muligheten til å skape tillit til at vitenskapen er reproduserbar. Likevel er det et problem, for det er mange rapportert som ikke er reproduserbare. Ved Replikbarhet kan vi gå ut ifra at vi kan gjøre det på nytt.  Mens ved reproduserbare er nødvendig, men ikke tilstrekkelig betingelse.
+
+##  Replikerbarhet/repoduserbarhet
+Bør vi nevne generalisering her?
+## Problemets omgang
+
+
+# Løser R notebook problemet med reproduserbarhet
 
 
 
@@ -36,7 +58,7 @@ o	Muligløsning?
 •	Analyse?
 THE JMCB prosjektet  -- skrive litt om hvordan det prosjektet gikk. 
 	
-o	Løser R notebook problemet med reproduserbarhet
+
 Skrive noe korte ord her?
 	Helt eller bare delvis?
 o	Eksempler på «code chunks» ( r code Block) og text chunk i R notebook
@@ -52,9 +74,13 @@ Fordeler og ulemper?
 •	Litteraturliste
 Dette fikser vi!
 
+<<<<<<< HEAD
 
 
 
+=======
+ 
+>>>>>>> b22e91cc7c000682a776633a5ae93cbdfef37a58
 # Terminal window
 
 Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
