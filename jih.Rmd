@@ -74,13 +74,7 @@ Fordeler og ulemper?
 •	Litteraturliste
 Dette fikser vi!
 
-<<<<<<< HEAD
 
-
-
-=======
- 
->>>>>>> b22e91cc7c000682a776633a5ae93cbdfef37a58
 # Terminal window
 
 Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
