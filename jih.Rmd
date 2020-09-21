@@ -11,6 +11,7 @@ output:
 
 ## Innledning 
 
+
 I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med og reprodusering. 
 ## Reproduserbarhet
 Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
@@ -54,6 +55,12 @@ Dette fikser vi!
 
 
 Bare tester 
+
+##innleding
+##hoveddel
+
+Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
+
 
 # Terminal window
 
