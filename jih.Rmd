@@ -17,6 +17,18 @@ I dagens samfunn er vitenskapen i utvikling, og det vil være et stort behov for
 
 Forskere har funnet ut at det til tider er vanskelig med reproduserbarhet. I denne forbindelse nevner [@peng2011] at reproduserbarhet bær være et minstekrav for at en artikkel skal produseres. 
 
+Robus og pålitelig forskning er grunnlaget for vitesnakpelig utvikling og fremgang. Dette avhenger av at forskernes evne til å samle inn data fra tidligere arbeid. "robust and reliable sciene" omhandler at forskningen skal være reproduserbar, replikerbar og generaliserbar. Når det kommer til defineringen av disse uttrykkene, har det oppstått forvirring og misforståelser. I denne fobindelse vil vi velge å definere disse på engelsk. [@bollen2015]
+
+
+Replicability refers to: the ability of a researcher to duplicate the results of a prior study if the same procedures are followed but the new data are collected. 
+
+Generalizability refers to: wheter the results of a study apply in other contexts or populations that differ from the originals.
+
+Reproducibility refers to: the ability of a researcher to duplicate the results of a prior study using the same materials and prcedures used by the original investigator.
+
+
+
+
 
 
 ## Reproduserbarhet
