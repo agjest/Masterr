@@ -29,6 +29,8 @@ Reproducibility refers to: the ability of a researcher to duplicate the results 
 
 Reproduserbarhet kan også deles inn i tre hovedkategorier; methods reproducibility, results reproducibility og robustness and generalizability. 
 
+
+# Flere definisjoner
 Methods reproducibility: “Methods reproducibility refers to the  provision of enough detail about study procedures and data so the same procedures could, in theory or in actuality, be exactly repeated”
 
 Results reproducibility: “Results reproducibility (previously descrived as replicability) refers to obtaining the same results from the conduct of an independent study whose procedure are as closely matched to the original experiment as possible.”
@@ -36,11 +38,19 @@ Results reproducibility: “Results reproducibility (previously descrived as rep
 Robustness and generallzability: “We briefly introduce these terms because they are sometimes used in lieu of the term reproducibility. Robustness refers to the stability of experimental conclusjon to varaitions in either baseline assumptions or experimental procedures. It is somewhat related to the concept of generalizability (also known as transportability), which refers to the persistence of an effect in settings different from and outside of an experimental framework”. 
 
 ##Problemer Hoveddel
-Et annet problem knyttet til forskning er publiserings skeivhet også kalt for publication bias. Dette omhandler at sannsynligheten for at en studie skal bli publisert avhenger av konklusjonen til studiet. Etter å ha undersøkt er det mange som har funnet ut at det er veldig få studier som har en negativ konklusjon. Det vil si at man ikke forkaster vår null hypotese. dette kan være et problem knyttet til at forskningen kan vise at det ikke har noen effekt, noe som videre kan fære til at man går glipp av viktig kunnskap. Et "worst case scenario" er at de vitenskapelige skriftene blir en stor samling av type 1 error.   
 
+# Publication bias
+Et annet problem knyttet til forskning er publiserings skeivhet også kalt for publication bias. Dette omhandler at sannsynligheten for at en studie skal bli publisert avhenger av konklusjonen til studiet. Etter å ha undersøkt er det mange som har funnet ut at det er veldig få studier som har en negativ konklusjon. Det vil si at man ikke forkaster vår null hypotese. dette kan være et problem knyttet til at forskningen kan vise at det ikke har noen effekt, noe som videre kan fære til at man går glipp av viktig kunnskap. Et "worst case scenario" er at de vitenskapelige skriftene blir en stor samling av type 1 error.
+
+#Type 1 error
 Type 1 error vil si at man forkaster H0 når den i virkeligheten skal beholdes. Et av problemene knyttet til dette tema er hvis man for eksempel ufører like 100 studier som finner ingen effekt, og vi har en som finner en effekt, vil det være en sjanse for at man finner en studie i litteraturen som viser et feil resultat. Dette blir ofte omtalt som "the File Drawer Problem" [@rosenthal1979]. Det vil si at de studiene som viser at man ikke kan forkaste H0, ikke blir publiserte. Studier som viser at man kan forkaste H0, blir publiserte. 
 [@simmons2011] hevder at dette er en svært kostbar feil å gjøre, da de blir liggende i literaturen lenge. Dette vil også medføre at det blir mindre muligheter for andre å reprodusere studiene for å se om de samsvarer. Falske resultater vil overleve over en lang periode. et annet problem knyttet til dette er at man kan bruke de falske positve svarene som utgangspunkt for nye undersøkelser. Man vil da bruke store ressurser på å arbeide med noe som ikke er riktig. Videre kan dette føre til politiske følger og kostbare reformer som da i sin helhet er begrunnet ut ifra vitenskap som ikke gjelder. Alt i alt vil dette svekke troverdigheten. 
 
+#publication bias and meta-analysis
+publiserings skeivhet kan videre forplante seg i metaanalyser, hvor man tar for seg mange artikler innenfor et fagområde. hensikteten med meta-analysis er å finne det generelle svaret ved å sammenfatte resultatene fra den tidligere forskningen. Dersom man da bare tar med de falske positive artiklene som blir publisert, vil dette ha stor betydning for hvilen konklusjone man ender med.[@young2008] 
+
+#The replication crisis
+Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. [@simmons2011] beviste at man vil føle seg yngre ved å høre på "When I'm sixty four" av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen. 
 
 
 ## Reproduserbarhet
