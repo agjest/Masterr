@@ -12,6 +12,8 @@ output:
 ##innleding
 ##hoveddel
 
+reproduserbarhet er vanskelig å få til.
+
 Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 
 # Terminal window
