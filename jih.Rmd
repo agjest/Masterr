@@ -50,6 +50,7 @@ Bør vi nevne generalisering her?
 
 
 
+
 	Vil dagens løsning med aktiv data og event. Programkode has tidsskriftene kunne løse problemet?
 Det er vanskelig å publisere rådatane, som gjør det vanskelige å reprodusere hele rapporten å få lik konklusjon. 
 o	Mulig løsning (teoretisk plan)
@@ -75,6 +76,7 @@ Fordeler og ulemper?
 Dette fikser vi!
 
 
+
 # Terminal window
 
 Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
@@ -87,6 +89,7 @@ Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
 1. git commit -m "første commit jih"
 1. git push --set-upstream origin jih
 1. git push
+
 
 
 ## Referanser
