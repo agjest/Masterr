@@ -1,72 +1,34 @@
 ---
-title: "Git versjonskontrollsystem (utkast)"
+title: "Assignment 1 Data Science"
+subtitle: "Reproduserbarhet"
+author: 
+  - Sofie Brynjelsen
+  - Silje Marie Danielsen
+classoption: twoside
+fontsize: 12pt
 bibliography: new-paper.bib
 lang: nb-no
-
-
 output:
-  html_notebook
-  
+ html_document:
+   df_print: paged
+   toc: true
+   toc_depth: 3
+   number_sections: true
+   word_document:
+    df_print: paged
+    toc: true
+    toc_depth: 3
+year: 2020
+Linestretch: 1.5 
 ---
 
-## Innledning 
+##innledning
 
-I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med og reprodusering. 
-## Reproduserbarhet
-Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
-##Litteraturgjennomgang   
-Vitenskapen utvikler seg, det gir oss muligheten til å skape tillit til at vitenskapen er reproduserbar. Likevel er det et problem, for det er mange rapportert som ikke er reproduserbare. Ved Replikbarhet kan vi gå ut ifra at vi kan gjøre det på nytt.  Mens ved reproduserbare er nødvendig, men ikke tilstrekkelig betingelse.
-##Replikerbarhet/repoduserbarhet
-Bør vi nevne generalisering her?
-## Problemets omgang
-Her kan vi skrive litt om publiserings skreivhet?
-	Negativ og positiv konklusjon?
-	Publiserings skeivhet handler om at en studie blir publisert avhengig av hva konklusjonen blir,  positiv konklusjonen.  Det er veldig få som forkaster Ho, som vil si negativ konklusjon med ingen effekt
-# Avslutning
+## Konkulsjon 
 
-
-
-
-
-	Vil dagens løsning med aktiv data og event. Programkode has tidsskriftene kunne løse problemet?
-Det er vanskelig å publisere rådatane, som gjør det vanskelige å reprodusere hele rapporten å få lik konklusjon. 
-o	Mulig løsning (teoretisk plan)
-	*Compendium* Dynamic document , code chunck og text chunk
-o	Muligløsning?
-•	Analyse?
-THE JMCB prosjektet  -- skrive litt om hvordan det prosjektet gikk. 
-	
-o	Løser R notebook problemet med reproduserbarhet
-Skrive noe korte ord her?
-	Helt eller bare delvis?
-o	Eksempler på «code chunks» ( r code Block) og text chunk i R notebook
-	Dette må vi se mer på.  Om vi skal ha med dette.
-o	Har forskere incentiver til å være «reproduserbare», eller må de tvinges?
-	Interessant. 
-o	Er økt reporduserbarhet noe som vil tvinge frem eller er dagens økte interesse bare en blaff?
-o	Kan reproduserbarhet ha relevans i sektorer utenfor akadamia?
-	Jeg tenker det blir mer troverdig når rapporter, artikler mv. kan de kan være reproduserbare. 
-•	Konklusjon
-Vil R notebook gjøre det lettere at rapporter vil være reproduserbare?  
-Fordeler og ulemper?
-•	Litteraturliste
-Dette fikser vi!
-
-
-
-
-# Terminal window
-
-Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
-
-1. git clone https://github.com/SBrynjelsen/Masterr
-1. git branch jih
-1. git checkout jih
-1. Gjør endringer
-1. git add --all
-1. git commit -m "første commit jih"
-1. git push --set-upstream origin jih
-1. git push
+```{r}
+sessionInfo()
+```
 
 
 ## Referanser
