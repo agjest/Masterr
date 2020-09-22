@@ -47,6 +47,7 @@ Results reproducibility: “Results reproducibility (previously descrived as rep
 
 Robustness and generallzability: “We briefly introduce these terms because they are sometimes used in lieu of the term reproducibility. Robustness refers to the stability of experimental conclusjon to varaitions in either baseline assumptions or experimental procedures. It is somewhat related to the concept of generalizability (also known as transportability), which refers to the persistence of an effect in settings different from and outside of an experimental framework”. 
 
+\newpage
 ##Problemer Hoveddel
 
 # **Publication bias**
@@ -63,7 +64,7 @@ publiserings skeivhet kan videre forplante seg i metaanalyser, hvor man tar for 
 Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. [@simmons2011] beviste at man vil føle seg yngre ved å høre på "When I'm sixty four" av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen. 
 
 
-
+\newpage 
 # Avslutning
 
 
