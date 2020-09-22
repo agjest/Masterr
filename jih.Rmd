@@ -2,8 +2,8 @@
 title: "Assignment 1 Data Science"
 subtitle: "Reproduserbarhet"
 author: 
-- Sofie Brynjelsen
-- Silje Marie Danielsen
+  - Sofie Brynjelsen
+  - Silje Marie Danielsen
 fontsize: 12pt
 bibliography: new-paper.bib
 lang: nb-no
