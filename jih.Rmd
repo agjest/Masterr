@@ -72,6 +72,9 @@ Et forslag til å løse problemene med reprodusering av data, var å få arkiver
 
 En annen løsning på problemet er kalt for *computable documents*. Dette omhandler at koden er en del av artikkelen som har blitt publisert. Den vil da ligge inne i de opprinnelige dokumentene som er blitt tilsendt til til tidskriftene. Man vil dermed ha en kode til å lese inn data, en kode for å regne ut og behandle dem, samt koder til å teste dem og til å rapportere resultatene. Ideen er inspirert av @knuth1992 som ville  forbedre kvaliteten på dataprogrammer og kvaliteten på kodene. @ramsey laget et program kalt for Noweb, som skulle være med på å gjøre det enklere løsning som skulle brukes på mange forskjellige programmeringsspråk. Dette kan bidra til å øke kvaliteten.
 
+ @gentleman2007 var opptatt av at det er essensielt å intregere beregningene og kodene som ble brukt i dataanalysen, med selve dokumentet og beskrivelsene av funnene. De innførte dermed et kompenndium "computable documents" som skal være en samling av ulike elementer, tekst, kode dataene, i tillegg til at de skal kunne pakkes i ein enhet slik at det skal være enkelt å repdorusere resultatene. Får en til dette med disse kompendiene er en godt på vei til repdouserbar forskning.
+
+Dynamisk dokument i kompmendiene er en ordnet sammensettning av chuncks  stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart. 
 
 
 
