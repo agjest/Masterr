@@ -7,31 +7,12 @@ output:
   html_notebook
 ---
 
-## Hva skjer?
-
 ##innleding
 ##hoveddel
 
-reproduserbarhet er vanskelig å få til.
-
-Under her kommer en Git  instruksjonsliste fra Jørn @grolemund
-
-# Terminal window
-
-1. git clone https://github.com/SBrynjelsen/Masterr
-1. git branch jih
-1. git checkout jih
-1. Gjør endringer
-1. git add --all
-1. git commit -m "første commit jih"
-1. git push --set-upstream origin jih
-1. git push
 
 
 
-tusen takk [@barnes2010; @bechhofer2013]
- 
- hjertlig takk
 
 ## Referanser
 <DIV id="refs"></DIV>
