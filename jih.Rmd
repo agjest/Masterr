@@ -21,9 +21,7 @@ Linestretch: 1.5
 \newpage 
 # Innledning 
 
-kan du se dette?
 
-ja det kan jeg
 I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med og reprodusering. 
 
 I dagens samfunn er vitenskapen i utvikling, og det vil være et stort behov for at man har tillit til forskningen som blir gjort. For å skape tillit er det vesentlig at funnen som er blitt gjort, kan reproduseres. Det vil si at når en gjennomfører samme analyse basert på samme data, vil man endre opp med de eksakt samme svarene. I forbindelse med reproduserbarhet vil det være vesentlig å nevne replikerbarhet. Replikerbarhet handler om at man får samme konklusjon, når man gjennomfører samme undersøkelse med nye data. Dette omtales også som gullstandarden når det gjelder vitenskap. vi kan se på reproduserbarhet som nødvendig, men ikke tilstrekkelig for replikerbarhet.
