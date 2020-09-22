@@ -31,6 +31,8 @@ Linestretch: 1.5
 sessionInfo()
 ```
 
+Når vi bruker """sessioninfo()""" i en code-chunk. Får  vi informasjon om hvilke versjon av R studio vi har, hvilke pakker en har lastet opp i Rstudio og samtidig andre viktig data. Når denne informasjonen er tilgjengelig, vil det bli lettere på reprodusere datane, og kommer til lik eller tilnermet lik konkusjon. 
+
 
 ## Referanser
 <DIV id="refs"></DIV>
