@@ -62,8 +62,6 @@ publiserings skeivhet kan videre forplante seg i metaanalyser, hvor man tar for 
 # **The replication crisis**
 Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. [@simmons2011] beviste at man vil føle seg yngre ved å høre på "When I'm sixty four" av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen. 
 
-Hei hei
-
 
 ## Reproduserbarhet
 Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
