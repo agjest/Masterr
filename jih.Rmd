@@ -15,8 +15,7 @@ output:
    toc_depth:
    word_document:
     df_print: paged
-    toc: true
-    toc_depth:3
+   
 Linestretch: 1.5 
   
 ---
