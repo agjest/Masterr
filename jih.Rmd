@@ -62,6 +62,22 @@ publiserings skeivhet kan videre forplante seg i metaanalyser, hvor man tar for 
 # **The replication crisis**
 Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. [@simmons2011] beviste at man vil føle seg yngre ved å høre på "When I'm sixty four" av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen. 
 
+\newpage
+# Løsning
+@frisch1933 var en av de første som ønsket en løsning på problemet med replikkering og reprodusering. Han kom med et forslag om at de statistike eller andre nummerisk arbeid, som skal presenteres i den ledende tiddskriften Econometrica, må ha med originale rådata og at de blir publiserte sammen med artiklene, med mindre de er omfattene og store. Dette ble et stort problem ettersom regresjon var et stort om omfattende arbeid og de ble vanskelige å flytte fra en maskin til en annen. Det vil si at replikering og reproduksjon ble umulig. JMCB gjennomførte også et prosjekt hvor de ville kjøre en replikasjon på innsendte dataset som følgte med artikler som var blitt publiserte. De undersøkte mer enn 70 arbeid og klarte å direkte reprodusere to av dem. Mange av de publiserte arbeidene var umulige å gjenprodusere på grunn av mangel på data. 
+
+Et forslag til å løse problemene med reprodusering av data, var å få arkiver i journalene som ble brukt. Man akriverer koder for å regne ut tester og modeller, noe som har vært brukt over lang tid. Senere fant @mccullough2008 ut at dette ikke fikset problemet vårt med reprodusering av den grunn at det ikke finnes noe data. Senere i 2013, fant de en annen mer teoretisk løsning på problemet. Ved å lage et stort felles register der man registrerer dataene som er samlet inn.  
+
+En annen løsning på problemet er kalt for *computable documents*. Dette omhandler at koden er en del av artikkelen som har blitt publisert. Den vil da ligge inne i de opprinnelige dokumentene som er blitt tilsendt til til tidskriftene. Man vil dermed ha en kode til å lese inn data, en kode for å regne ut og behandle dem, samt koder til å teste dem og til å rapportere resultatene. Ideen er inspirert av @knuth1992 som ville  forbedre kvaliteten på dataprogrammer og kvaliteten på kodene. @ramsey laget et program kalt for Noweb, som skulle være med på å gjøre det enklere løsning som skulle brukes på mange forskjellige programmeringsspråk. Dette kan bidra til å øke kvaliteten.
+
+ @gentleman2007 var opptatt av at det er essensielt å intregere beregningene og kodene som ble brukt i dataanalysen, med selve dokumentet og beskrivelsene av funnene. De innførte dermed et kompenndium "computable documents" som skal være en samling av ulike elementer, tekst, kode dataene, i tillegg til at de skal kunne pakkes i ein enhet slik at det skal være enkelt å repdorusere resultatene. Får en til dette med disse kompendiene er en godt på vei til repdouserbar forskning.
+
+Dynamisk dokument i kompmendiene er en ordnet sammensettning av chuncks  stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart. 
+
+
+
+
+
 
 \newpage 
 # Avslutning
