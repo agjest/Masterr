@@ -7,6 +7,7 @@ author:
 classoption: twoside
 fontsize: 12pt
 bibliography: new-paper.bib
+cls:
 lang: nb-no
 output:
  html_document:
