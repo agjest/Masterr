@@ -2,10 +2,12 @@
 title: "Git versjonskontrollsystem (utkast)"
 bibliography: new-paper.bib
 lang: nb-no
-
 output:
-  html_notebook
+  html_document:
+    df_print: paged
 ---
+
+*__Testing__* 
 
 ## Hva skjer?
 
