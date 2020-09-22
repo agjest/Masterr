@@ -7,7 +7,7 @@ author:
 classoption: twoside
 fontsize: 12pt
 bibliography: new-paper.bib
-cls:
+cls: apa-no-ampersand.csl
 lang: nb-no
 output:
  html_document:
@@ -23,16 +23,21 @@ year: 2020
 Linestretch: 1.5 
 ---
 
-##innledning
+## Innledning
 
 ## Konkulsjon 
 
-```{r}
+```{sessioninfo}
 sessionInfo()
 ```
 
-Når vi bruker """sessioninfo()""" i en code-chunk. Får  vi informasjon om hvilke versjon av R studio vi har, hvilke pakker en har lastet opp i Rstudio og samtidig andre viktig data. Når denne informasjonen er tilgjengelig, vil det bli lettere på reprodusere datane, og kommer til lik eller tilnermet lik konkusjon. 
+Når vi bruker ___sessioninfo___ i en code-chunk. Får  vi informasjon om hvilke versjon av R studio vi har, hvilke pakker en har lastet opp i Rstudio og samtidig andre viktig data. Når denne informasjonen er tilgjengelig, vil det bli lettere på reprodusere datane, og kommer til lik eller tilnermet lik konkusjon. 
 
+
+
+```{rmarkdown} 
+toBibtex(citation("rmarkdown"))
+```
 
 ## Referanser
 <DIV id="refs"></DIV>
