@@ -1679,11 +1679,20 @@ summary {
 <p>Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. <span class="citation">(Simmons, Nelson, og Simonsohn 2011)</span> beviste at man vil føle seg yngre ved å høre på “When I’m sixty four” av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen.</p>
 <div style="page-break-after: always;"></div>
 </div>
+<div id="løsning" class="section level1">
+<h1><span class="header-section-number">6</span> Løsning</h1>
+<p><span class="citation">Frisch (1933)</span> var en av de første som ønsket en løsning på problemet med replikkering og reprodusering. Han kom med et forslag om at de statistike eller andre nummerisk arbeid, som skal presenteres i den ledende tiddskriften Econometrica, må ha med originale rådata og at de blir publiserte sammen med artiklene, med mindre de er omfattene og store. Dette ble et stort problem ettersom regresjon var et stort om omfattende arbeid og de ble vanskelige å flytte fra en maskin til en annen. Det vil si at replikering og reproduksjon ble umulig. JMCB gjennomførte også et prosjekt hvor de ville kjøre en replikasjon på innsendte dataset som følgte med artikler som var blitt publiserte. De undersøkte mer enn 70 arbeid og klarte å direkte reprodusere to av dem. Mange av de publiserte arbeidene var umulige å gjenprodusere på grunn av mangel på data.</p>
+<p>Et forslag til å løse problemene med reprodusering av data, var å få arkiver i journalene som ble brukt. Man akriverer koder for å regne ut tester og modeller, noe som har vært brukt over lang tid. Senere fant <span class="citation">McCullough, McGeary, og Harrison (2008)</span> ut at dette ikke fikset problemet vårt med reprodusering av den grunn at det ikke finnes noe data. Senere i 2013, fant de en annen mer teoretisk løsning på problemet. Ved å lage et stort felles register der man registrerer dataene som er samlet inn.</p>
+<p>En annen løsning på problemet er kalt for <em>computable documents</em>. Dette omhandler at koden er en del av artikkelen som har blitt publisert. Den vil da ligge inne i de opprinnelige dokumentene som er blitt tilsendt til til tidskriftene. Man vil dermed ha en kode til å lese inn data, en kode for å regne ut og behandle dem, samt koder til å teste dem og til å rapportere resultatene. Ideen er inspirert av <span class="citation">Knuth (1992)</span> som ville forbedre kvaliteten på dataprogrammer og kvaliteten på kodene. <span class="citation">Ramsey (udatert)</span> laget et program kalt for Noweb, som skulle være med på å gjøre det enklere løsning som skulle brukes på mange forskjellige programmeringsspråk. Dette kan bidra til å øke kvaliteten.</p>
+<p><span class="citation">Gentleman og Lang (2007)</span> var opptatt av at det er essensielt å intregere beregningene og kodene som ble brukt i dataanalysen, med selve dokumentet og beskrivelsene av funnene. De innførte dermed et kompenndium “computable documents” som skal være en samling av ulike elementer, tekst, kode dataene, i tillegg til at de skal kunne pakkes i ein enhet slik at det skal være enkelt å repdorusere resultatene. Får en til dette med disse kompendiene er en godt på vei til repdouserbar forskning.</p>
+<p>Dynamisk dokument i kompmendiene er en ordnet sammensettning av chuncks stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart.</p>
+<div style="page-break-after: always;"></div>
+</div>
 <div id="avslutning" class="section level1">
-<h1><span class="header-section-number">6</span> Avslutning</h1>
+<h1><span class="header-section-number">7</span> Avslutning</h1>
 </div>
 <div id="terminal-window" class="section level1">
-<h1><span class="header-section-number">7</span> Terminal window</h1>
+<h1><span class="header-section-number">8</span> Terminal window</h1>
 <p>Under her kommer en Git instruksjonsliste fra Jørn <span class="citation">Grolemund og Wickham (udatert)</span></p>
 <ol style="list-style-type: decimal">
 <li>git clone <a href="https://github.com/SBrynjelsen/Masterr" class="uri">https://github.com/SBrynjelsen/Masterr</a></li>
@@ -1696,16 +1705,31 @@ summary {
 <li>git push</li>
 </ol>
 <div id="referanser" class="section level2">
-<h2><span class="header-section-number">7.1</span> Referanser</h2>
+<h2><span class="header-section-number">8.1</span> Referanser</h2>
 <div id="refs">
 <div id="ref-bollen2015">
 <p>Bollen, Kenneth, John T. Cacioppo, Jon A. Krosnick, James L. Olds, og Robert M. Kaplan. 2015. «Social, Behavioral, and Economic Sciences Perspectives on Robust and Reliable Science». Report of the Subcommittee on Replicability in Science Advisory Committee to the National Science Foundation Directorate for Social, Behavioral, and Economic Sciences. NSF.</p>
 </div>
+<div id="ref-frisch1933">
+<p>Frisch, Ragnar. 1933. «Editor’s Note». <em>Econometrica</em> 1 (1): 1–4.</p>
+</div>
+<div id="ref-gentleman2007">
+<p>Gentleman, Robert, og Duncan Temple Lang. 2007. «Statistical Analyses and Reproducible Research». <em>Journal of Computational and Graphical Statistics</em> 16 (1): 1–23. <a href="https://doi.org/10.1198/106186007X178663">https://doi.org/10.1198/106186007X178663</a>.</p>
+</div>
 <div id="ref-grolemund">
 <p>Grolemund, Garrett, og Hadley Wickham. udatert. <em>R for Data Science</em>.</p>
 </div>
+<div id="ref-knuth1992">
+<p>Knuth, Donald E. 1992. <em>Literate Programming</em>. Cambridge University Press.</p>
+</div>
+<div id="ref-mccullough2008">
+<p>McCullough, B. D., Kerry Anne McGeary, og Teresa D. Harrison. 2008. «Do Economics Journal Archives Promote Replicable Research?» <em>Canadian Journal of Economics/Revue canadienne d’économique</em> 41 (4): 1406–20. <a href="https://doi.org/10.1111/j.1540-5982.2008.00509.x">https://doi.org/10.1111/j.1540-5982.2008.00509.x</a>.</p>
+</div>
 <div id="ref-peng2011">
 <p>Peng, Roger D. 2011. «Reproducible Research in Computational Science». <em>Science</em> 334 (6060): 1226–7. <a href="https://doi.org/10.1126/science.1213847">https://doi.org/10.1126/science.1213847</a>.</p>
+</div>
+<div id="ref-ramsey">
+<p>Ramsey, Norman. udatert. «Noweb Home Page».</p>
 </div>
 <div id="ref-rosenthal1979">
 <p>Rosenthal, R. 1979. «The File Drawer Problem and Tolerance for Null Results.» I, 86:638–41. Psychological Bulletin.</p>
@@ -1719,7 +1743,7 @@ summary {
 </div>
 </div>
 <div id="appendiks" class="section level2">
-<h2><span class="header-section-number">7.2</span> Appendiks</h2>
+<h2><span class="header-section-number">8.2</span> Appendiks</h2>
 </div>
 </div>
 
