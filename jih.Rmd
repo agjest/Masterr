@@ -37,7 +37,7 @@ Robus og pålitelig forskning er grunnlaget for vitesnakpelig utvikling og fremg
 
 *"**Reproducibility** refers to: the ability of a researcher to duplicate the results of a prior study using the same materials and prcedures used by the original investigator.*"
 
-Reproduserbarhet kan også deles inn i tre hovedkategorier; *methods reproducibility*, *results reproducibility* og *robustness and generalizability*. 
+*_Reproduserbarhet_* kan også deles inn i tre hovedkategorier; *methods reproducibility*, *results reproducibility* og *robustness and generalizability*. 
 
 Methods reproducibility: “Methods reproducibility refers to the  provision of enough detail about study procedures and data so the same procedures could, in theory or in actuality, be exactly repeated”
 
