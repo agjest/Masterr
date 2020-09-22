@@ -7,13 +7,10 @@ output:
     df_print: paged
 ---
 
-<<<<<<< HEAD
-=======
 *__Testing__* 
 
 ## Hva skjer?
 
->>>>>>> 653e21aab62e87643e10aba01ecd85facd7af3b2
 ##innleding
 ##hoveddel
 
