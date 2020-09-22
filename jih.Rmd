@@ -61,45 +61,8 @@ publiserings skeivhet kan videre forplante seg i metaanalyser, hvor man tar for 
 Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. [@simmons2011] beviste at man vil føle seg yngre ved å høre på "When I'm sixty four" av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen. 
 
 
-## Reproduserbarhet
-Reproduserbarhet er når en gjennomfører samme analyse på samme data og ende opp med eksakt samme svarene, mens replikerbarhet er når en gjennomfører samme undersøkelse med nye data og får samme konkulsjon.
-##Litteraturgjennomgang   
-Vitenskapen utvikler seg, det gir oss muligheten til å skape tillit til at vitenskapen er reproduserbar. Likevel er det et problem, for det er mange rapportert som ikke er reproduserbare. Ved Replikbarhet kan vi gå ut ifra at vi kan gjøre det på nytt.  Mens ved reproduserbare er nødvendig, men ikke tilstrekkelig betingelse.
-##Replikerbarhet/repoduserbarhet
-Bør vi nevne generalisering her?
-## Problemets omgang
-Her kan vi skrive litt om publiserings skreivhet?
-	Negativ og positiv konklusjon?
-	Publiserings skeivhet handler om at en studie blir publisert avhengig av hva konklusjonen blir,  positiv konklusjonen.  Det er veldig få som forkaster Ho, som vil si negativ konklusjon med ingen effekt
+
 # Avslutning
-
-
-
-
-
-	Vil dagens løsning med aktiv data og event. Programkode has tidsskriftene kunne løse problemet?
-Det er vanskelig å publisere rådatane, som gjør det vanskelige å reprodusere hele rapporten å få lik konklusjon. 
-o	Mulig løsning (teoretisk plan)
-	*Compendium* Dynamic document , code chunck og text chunk
-o	Muligløsning?
-•	Analyse?
-THE JMCB prosjektet  -- skrive litt om hvordan det prosjektet gikk. 
-	
-o	Løser R notebook problemet med reproduserbarhet
-Skrive noe korte ord her?
-	Helt eller bare delvis?
-o	Eksempler på «code chunks» ( r code Block) og text chunk i R notebook
-	Dette må vi se mer på.  Om vi skal ha med dette.
-o	Har forskere incentiver til å være «reproduserbare», eller må de tvinges?
-	Interessant. 
-o	Er økt reporduserbarhet noe som vil tvinge frem eller er dagens økte interesse bare en blaff?
-o	Kan reproduserbarhet ha relevans i sektorer utenfor akadamia?
-	Jeg tenker det blir mer troverdig når rapporter, artikler mv. kan de kan være reproduserbare. 
-•	Konklusjon
-Vil R notebook gjøre det lettere at rapporter vil være reproduserbare?  
-Fordeler og ulemper?
-•	Litteraturliste
-Dette fikser vi!
 
 
 
