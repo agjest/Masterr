@@ -10,7 +10,6 @@ lang: nb-no
 output:
  html_document:
    df_print: paged
-   toc: true
    number_sections: true
    toc_depth:
    word_document:
