@@ -9,9 +9,7 @@ output:
     tuc: yes
     word_document:
       df_print: paged
-<<<<<<< HEAD
   word_document: default
-=======
   pdf_document: default
 subtitle: Reproduserbarhet
 csl: apa-no-ampersand.csl
@@ -33,7 +31,9 @@ Linestretch: 1.5
   1) Avslutnning
   1) Referanser
   1) Appendiks
-   
+
+okay. Sijle kan du sjå det eg skrive nå då?
+jepp   
 
 
 # Innledning 
