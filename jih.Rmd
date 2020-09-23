@@ -5,6 +5,7 @@ author:
 - Silje Marie Danielsen
 subtitle: Reproduserbarhet
 output:
+  word_document: default
   html_document:
     df_print: paged
     number_sections: yes
