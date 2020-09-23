@@ -1,7 +1,7 @@
 ---
 title: "Assignment 1 Data Science"
-bibliography: new-paper.bib
-lang: nb-no
+
+subtitle: "Reproduserbarhet"
 csl: apa-no-ampersand.csl
 author: Sofie Brynjelsen, Silje Marie Danielsen
 subtitle: Reproduserbarhet
@@ -29,6 +29,7 @@ I dagens samfunn er vitenskapen i utvikling, og det vil være et stort behov for
 
 Forskere har funnet ut at det til tider er vanskelig med reproduserbarhet. I denne forbindelse nevner [@peng2011] at reproduserbarhet bær være et minstekrav for at en artikkel skal produseres. 
 
+
 Robus og pålitelig forskning er grunnlaget for vitesnakpelig utvikling og fremgang. Dette avhenger av at forskernes evne til å samle inn data fra tidligere arbeid. "robust and reliable sciene" omhandler at forskningen skal være reproduserbar, replikerbar og generaliserbar. Når det kommer til defineringen av disse uttrykkene, har det oppstått forvirring og misforståelser. I denne fobindelse vil vi velge å definere disse på engelsk. [@bollen2015]
 
 
@@ -47,23 +48,22 @@ Results reproducibility: “Results reproducibility (previously descrived as rep
 
 Robustness and generallzability: “We briefly introduce these terms because they are sometimes used in lieu of the term reproducibility. Robustness refers to the stability of experimental conclusjon to varaitions in either baseline assumptions or experimental procedures. It is somewhat related to the concept of generalizability (also known as transportability), which refers to the persistence of an effect in settings different from and outside of an experimental framework”. 
 
-\newpage
-##Problemer Hoveddel
 
-# **Publication bias**
+
+# Publication bias
 Et annet problem knyttet til forskning er publiserings skeivhet også kalt for publication bias. Dette omhandler at sannsynligheten for at en studie skal bli publisert avhenger av konklusjonen til studiet. Etter å ha undersøkt er det mange som har funnet ut at det er veldig få studier som har en negativ konklusjon. Det vil si at man ikke forkaster vår null hypotese. dette kan være et problem knyttet til at forskningen kan vise at det ikke har noen effekt, noe som videre kan fære til at man går glipp av viktig kunnskap. Et "worst case scenario" er at de vitenskapelige skriftene blir en stor samling av type 1 error.
 
-# **Type 1 error**
+# Type 1 error
 Type 1 error vil si at man forkaster H0 når den i virkeligheten skal beholdes. Et av problemene knyttet til dette tema er hvis man for eksempel ufører like 100 studier som finner ingen effekt, og vi har en som finner en effekt, vil det være en sjanse for at man finner en studie i litteraturen som viser et feil resultat. Dette blir ofte omtalt som "the File Drawer Problem" [@rosenthal1979]. Det vil si at de studiene som viser at man ikke kan forkaste H0, ikke blir publiserte. Studier som viser at man kan forkaste H0, blir publiserte. 
 [@simmons2011] hevder at dette er en svært kostbar feil å gjøre, da de blir liggende i literaturen lenge. Dette vil også medføre at det blir mindre muligheter for andre å reprodusere studiene for å se om de samsvarer. Falske resultater vil overleve over en lang periode. et annet problem knyttet til dette er at man kan bruke de falske positve svarene som utgangspunkt for nye undersøkelser. Man vil da bruke store ressurser på å arbeide med noe som ikke er riktig. Videre kan dette føre til politiske følger og kostbare reformer som da i sin helhet er begrunnet ut ifra vitenskap som ikke gjelder. Alt i alt vil dette svekke troverdigheten. 
 
-# **Publication bias and meta-analysis**
+# Publication bias and meta-analysis
 publiserings skeivhet kan videre forplante seg i metaanalyser, hvor man tar for seg mange artikler innenfor et fagområde. hensikteten med meta-analysis er å finne det generelle svaret ved å sammenfatte resultatene fra den tidligere forskningen. Dersom man da bare tar med de falske positive artiklene som blir publisert, vil dette ha stor betydning for hvilen konklusjon man ender opp med.[@young2008]   
 
-# **The replication crisis**
+# The replication crisis
 Et annet problem som angår dette tema er det som blir kalt for the replication crisis. Dette har sine røtter innen psykologi men etter hvert er det flere fagområder, som for eksmepel økonomi som har vist interesse for tema. [@simmons2011] beviste at man vil føle seg yngre ved å høre på "When I'm sixty four" av The beatles. Dette er forskning som ikke stemmer, og etter dette utfallet ville de finne en løsning på problemet når det kommer til publisering av forskning. De innførte dermed seks ulike krav til forfatterne og fire guidelines til redaktørene. Hovedformålet med disse kravene og guidlinesene er at man skal kunne unngå å få slike resultat, som den tidligere nevnte forskningen. 
 
-\newpage
+
 # Løsning
 @frisch1933 var en av de første som ønsket en løsning på problemet med replikkering og reprodusering. Han kom med et forslag om at de statistike eller andre nummerisk arbeid, som skal presenteres i den ledende tiddskriften Econometrica, må ha med originale rådata og at de blir publiserte sammen med artiklene, med mindre de er omfattene og store. Dette ble et stort problem ettersom regresjon var et stort om omfattende arbeid og de ble vanskelige å flytte fra en maskin til en annen. Det vil si at replikering og reproduksjon ble umulig. JMCB gjennomførte også et prosjekt hvor de ville kjøre en replikasjon på innsendte dataset som følgte med artikler som var blitt publiserte. De undersøkte mer enn 70 arbeid og klarte å direkte reprodusere to av dem. Mange av de publiserte arbeidene var umulige å gjenprodusere på grunn av mangel på data. 
 
@@ -80,6 +80,17 @@ __*Dynamisk dokument*__ i kompmendiene er en ordnet sammensettning av chuncks  s
 Vi kan konkludere med at det kan være en utfordring ved at rapporter  skal være 100% repoduserbare om en ikke har tilgang til kodene, og samme rådata som ble brukt i tildligere studier. I tillegg kan det oppstå problemer som publiserings skjeivhet, samt type 1 error, som er nevnt tidligere. 
 Er R notebook et godt verktøy som kan brukes til at det skal bli mulig at vitenskaplig studier kan være reproduserbare og en kan unngå slike problmer? 
 Ved R notebook har en redskaper til å kode, få fram rådata, en kan  dermed få frem den innformasjonen en trenger for å vite, for å gjøre en studie reproduserbar. 
+
+
+## Konkulsjon 
+
+```{sessioninfo}
+sessionInfo()
+```
+
+Når vi bruker ___sessioninfo___ i en code-chunk. Får  vi informasjon om hvilke versjon av R studio vi har, hvilke pakker en har lastet opp i Rstudio og samtidig andre viktig data. Når denne informasjonen er tilgjengelig, vil det bli lettere på reprodusere datane, og kommer til lik eller tilnermet lik konkusjon. 
+
+
 
 ## Referanser
 <DIV id="refs"></DIV>
