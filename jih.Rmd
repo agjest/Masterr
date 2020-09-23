@@ -79,17 +79,11 @@ __*Dynamisk dokument*__ i kompmendiene er en ordnet sammensettning av chuncks  s
 
 Vi kan konkludere med at det kan være en utfordring ved at rapporter  skal være 100% repoduserbare om en ikke har tilgang til kodene, og samme rådata som ble brukt i tildligere studier. I tillegg kan det oppstå problemer som publiserings skjeivhet, samt type 1 error, som er nevnt tidligere. 
 Er R notebook et godt verktøy som kan brukes til at det skal bli mulig at vitenskaplig studier kan være reproduserbare og en kan unngå slike problmer? 
-Ved R notebook har en redskaper til å kode, få fram rådata, en kan  dermed få frem den innformasjonen en trenger for å vite, for å gjøre en studie reprodusrbar. 
-
-<<<<<<< HEAD
-\newpage 
-# Avslutning 
-=======
->>>>>>> hoveddel
+Ved R notebook har en redskaper til å kode, få fram rådata, en kan  dermed få frem den innformasjonen en trenger for å vite, for å gjøre en studie reproduserbar. 
 
 ## Referanser
 <DIV id="refs"></DIV>
 
 ## Appendiks
 
-[commit history](commit .png)
+![commit history](commit.png)
