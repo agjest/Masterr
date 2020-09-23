@@ -9,6 +9,7 @@ output:
     df_print: paged
     number_sections: yes
     tuc: true
+    df_depth: 3
     word_document:
       df_print: paged
 bibliography: new-paper.bib
