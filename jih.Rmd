@@ -1,17 +1,21 @@
 ---
 title: "Assignment 1 Data Science"
-subtitle: "Reproduserbarhet"
+author: "Sofie Brynjelsen, Silje Marie Danielsen"
 bibliography: new-paper.bib
-csl: apa-no-ampersand.csl
-author: Sofie Brynjelsen, Silje Marie Danielsen
 output:
   html_document:
     df_print: paged
     number_sections: yes
-    tuc: true
+    tuc: yes
     word_document:
       df_print: paged
+<<<<<<< HEAD
   word_document: default
+=======
+  pdf_document: default
+subtitle: Reproduserbarhet
+csl: apa-no-ampersand.csl
+>>>>>>> 19594fc79c059ec1385b0f282ab27fc4a67e4c1e
 fontsize: 12pt
 year: 2020
 Linestretch: 1.5
@@ -19,14 +23,14 @@ Linestretch: 1.5
 \newpage 
 
 
- 1) Innledning
-   2) Definisjoner
+  1) Innledning
+     1) Definisjoner
   1) Publication bias
   1) Type 1 error
-    2)Publication bias and meta-analysis
-    2)The replication crisis
+     1) Publication bias and meta-analysis
+     1) The replication crisis
   1) Løsning
-  1)Avslutnning
+  1) Avslutnning
   1) Referanser
   1) Appendiks
    
