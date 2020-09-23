@@ -13,10 +13,10 @@ output:
     tuc: true
     word_document:
       df_print: paged
-
 fontsize: 12pt
 year: 2020
 Linestretch: 1.5
+
 ---
 \newpage 
 # Innledning 
@@ -75,15 +75,21 @@ En annen løsning på problemet er kalt for *computable documents*. Dette omhand
 
 __*Dynamisk dokument*__ i kompmendiene er en ordnet sammensettning av chuncks  stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart. 
 
+##Avslutning
 
+Vi kan konkludere med at det kan være en utfordring ved at rapporter  skal være 100% repoduserbare om en ikke har tilgang til kodene, og samme rådata som ble brukt i tildligere studier. I tillegg kan det oppstå problemer som publiserings skjeivhet, samt type 1 error, som er nevnt tidligere. 
+Er R notebook et godt verktøy som kan brukes til at det skal bli mulig at vitenskaplig studier kan være reproduserbare og en kan unngå slike problmer? 
+Ved R notebook har en redskaper til å kode, få fram rådata, en kan  dermed få frem den innformasjonen en trenger for å vite, for å gjøre en studie reprodusrbar. 
 
-
-
-
+<<<<<<< HEAD
 \newpage 
 # Avslutning 
+=======
+>>>>>>> hoveddel
 
 ## Referanser
 <DIV id="refs"></DIV>
 
 ## Appendiks
+
+[commit history](commit .png)
