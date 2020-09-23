@@ -17,7 +17,23 @@ year: 2020
 Linestretch: 1.5
 ---
 \newpage 
+
+
+ 1) Innledning
+   2) Definisjoner
+  1) Publication bias
+  1) Type 1 error
+    2)Publication bias and meta-analysis
+    2)The replication crisis
+  1) Løsning
+  1)Avslutnning
+  1) Referanser
+  1) Appendiks
+   
+
+
 # Innledning 
+
 
 
 I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med reprodusering.
@@ -86,6 +102,8 @@ sessionInfo()
 
 
 Når vi bruker ___sessioninfo___ i en code-chunk. Får  vi informasjon om hvilke versjon av R studio vi har, hvilke pakker en har lastet opp i Rstudio og samtidig andre viktig data. Når denne informasjonen er tilgjengelig, vil det bli lettere på reprodusere datane, og kommer til lik eller tilnermet lik konkusjon. 
+
+
 
 
 
