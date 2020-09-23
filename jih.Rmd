@@ -73,7 +73,7 @@ En annen løsning på problemet er kalt for *computable documents*. Dette omhand
 
  @gentleman2007 var opptatt av at det er essensielt å intregere beregningene og kodene som ble brukt i dataanalysen, med selve dokumentet og beskrivelsene av funnene. De innførte dermed et kompenndium "computable documents" som skal være en samling av ulike elementer, tekst, kode dataene, i tillegg til at de skal kunne pakkes i ein enhet slik at det skal være enkelt å repdorusere resultatene. Får en til dette med disse kompendiene er en godt på vei til repdouserbar forskning.
 
-Dynamisk dokument i kompmendiene er en ordnet sammensettning av chuncks  stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart. 
+__*Dynamisk dokument*__ i kompmendiene er en ordnet sammensettning av chuncks  stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart. 
 
 
 
