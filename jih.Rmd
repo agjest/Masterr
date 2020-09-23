@@ -5,13 +5,13 @@ bibliography: new-paper.bib
 csl: apa-no-ampersand.csl
 author: Sofie Brynjelsen, Silje Marie Danielsen
 output:
-  word_document: default
   html_document:
     df_print: paged
     number_sections: yes
     tuc: true
     word_document:
       df_print: paged
+  word_document: default
 fontsize: 12pt
 year: 2020
 Linestretch: 1.5
