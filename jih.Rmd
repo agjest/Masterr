@@ -31,10 +31,7 @@ Linestretch: 1.5
   1) Referanser
   1) Appendiks
 
-<<<<<<< HEAD
-=======
-okay. Sijle kan du sjå det eg skrive nå då?
-jepp   
+
 >>>>>>> 4efd9c48bf2cf4900cdb0d89b885fc85170e6b84
 
 
