@@ -5,13 +5,13 @@ author: "Sofie Brynjelsen, Silje Marie Danielsen"
 bibliography: new-paper.bib
 csl: apa-no-ampersand.csl
 output:
-  html_document:
+ word_document:
+    df_print: paged
+ html_document:
     df_print: paged
     number_sections: yes
     tuc: yes
-   word_document: default
-      df_print: paged
-  pdf_document: default
+ pdf_document: default
 fontsize: 12pt
 year: 2020
 Linestretch: 1.5
@@ -31,7 +31,7 @@ Linestretch: 1.5
   1) Appendiks
 
 
->>>>>>> 4efd9c48bf2cf4900cdb0d89b885fc85170e6b84
+
 
 
 # Innledning 
