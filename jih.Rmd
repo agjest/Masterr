@@ -9,6 +9,7 @@ output:
     df_print: paged
     number_sections: yes
     tuc: yes
+    word_document: default
       df_print: paged
   word_document: default
   pdf_document: default
