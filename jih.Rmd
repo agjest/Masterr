@@ -1,10 +1,8 @@
 ---
 title: "Assignment 1 Data Science"
-
 subtitle: "Reproduserbarhet"
 csl: apa-no-ampersand.csl
 author: Sofie Brynjelsen, Silje Marie Danielsen
-subtitle: Reproduserbarhet
 output:
   word_document: default
   html_document:
@@ -22,7 +20,7 @@ Linestretch: 1.5
 # Innledning 
 
 
-I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med reprodusering..
+I denne oppgaven skal vi ta for oss hva reproduserbarhet og replikerbarhet er. Samt problemet med reprodusering.
 
 I dagens samfunn er vitenskapen i utvikling, og det vil være et stort behov for at man har tillit til forskningen som blir gjort. For å skape tillit er det vesentlig at funnen som er blitt gjort, kan reproduseres. Det vil si at når en gjennomfører samme analyse basert på samme data, vil man endre opp med de eksakt samme svarene. I forbindelse med reproduserbarhet vil det være vesentlig å nevne replikerbarhet. Replikerbarhet handler om at man får samme konklusjon, når man gjennomfører samme undersøkelse med nye data. Dette omtales også som gullstandarden når det gjelder vitenskap. vi kan se på reproduserbarhet som nødvendig, men ikke tilstrekkelig for replikerbarhet.
 
@@ -75,18 +73,17 @@ En annen løsning på problemet er kalt for *computable documents*. Dette omhand
 
 __*Dynamisk dokument*__ i kompmendiene er en ordnet sammensettning av chuncks  stykker med kode og stykker med tekst. Og at disse her kodestykkene ikke nødvnedigvis trenger å bli uført sekvensielt. Disse kan ha avanserte strukturer. I 2005 gjennomførte gentleman en case sudy for å vise at dette var gjennomførtbart. 
 
-##Avslutning
+## Avslutning
 
 Vi kan konkludere med at det kan være en utfordring ved at rapporter  skal være 100% repoduserbare om en ikke har tilgang til kodene, og samme rådata som ble brukt i tildligere studier. I tillegg kan det oppstå problemer som publiserings skjeivhet, samt type 1 error, som er nevnt tidligere. 
 Er R notebook et godt verktøy som kan brukes til at det skal bli mulig at vitenskaplig studier kan være reproduserbare og en kan unngå slike problmer? 
 Ved R notebook har en redskaper til å kode, få fram rådata, en kan  dermed få frem den innformasjonen en trenger for å vite, for å gjøre en studie reproduserbar. 
 
 
-## Konkulsjon 
-
-```{sessioninfo}
+```{r}
 sessionInfo()
 ```
+
 
 Når vi bruker ___sessioninfo___ i en code-chunk. Får  vi informasjon om hvilke versjon av R studio vi har, hvilke pakker en har lastet opp i Rstudio og samtidig andre viktig data. Når denne informasjonen er tilgjengelig, vil det bli lettere på reprodusere datane, og kommer til lik eller tilnermet lik konkusjon. 
 
