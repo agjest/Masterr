@@ -1,0 +1,15 @@
+---
+title: "Tilbakemelding"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+1) Documentet kjører og jeg klarer å generere de tre formatene. Bra!
+2) Siteringssystemet virker. Addin Citr virker. Bra!
+3) Jeg fikset litt på formatering i dokumentet. Husk linjeskift etter hver setning så minsker dere sannsynligheten for «merge conflict»
+4) Jeg skiftet til norske anførselstegn
+5) Velg norsk språk for Spelling i Prefs/Options og rett skrivefeil.
+6) Kjør også ordretting for engelsk tekst
+7) Slett grener dere er ferdige med. Mer ryddig og lettere å forholde seg til hvis dere noen gang skal vende tilbake til dette prosjektet. F.eks. vil kommandoen `git branch -d kladd` i Shell slette «kladd-branchen» (Husk å sjekke at dere står i rett mappe først)
+
